@@ -3,7 +3,7 @@
 ## Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Passport Authentication Demo]()
+![Passport Authentication Demo](Develop/img/demo.gif)
 
 ## Description
 This project is a walk through of a codebase that the user can use to create a new project with NPM, Node, Passport, Sequelize and MySQL
